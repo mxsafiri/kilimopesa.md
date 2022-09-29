@@ -19,55 +19,42 @@ Our project achieves this by introducing a new supply chain management module th
 
 ### Overview
 
-- KILIMO-PESA - Giving farmers tools and capital investments to help them create a regenerating eco-system
-- We a solve systemic problems and regenerate community wealth and natural environments. Our goal is to heal and create shared value. Profits are not the end, but rather a means to further progress. In our regenerative finance module, circulation replaces accumulation
+We are Giving farmers tools and capital investments to help them create a regenerating eco-system while solving systemic problems and regenerating community wealth and natural environments. Our goal is to heal and create shared value. Profits are not the end, but rather a means to further progress. In our regenerative finance module, circulation replaces accumulation
  
-- We want to use the NEAR Eco system to build smart contracts that will allow us to turn the equity we have under our DAO’s into tokens, NFT’s and even layer 1 stable currencies to be used as warranty to our investors based and backed by the returns from the agricultural economical activities the DAOs we operate yiled . 
+We want to use the NEAR Eco system to build smart contracts that will allow us to turn the equity we have under our DAO’s into tokens, NFT’s and even layer 1 stable currencies to be used as warranty to our investors based and backed by the returns from the agricultural economical activities the DAOs we operate yiled . 
 
-KILIMO KWANZA is an operating registered business that will build and maintain these DAOs. We will secure the liquidity and tokenization of the equity our DAOs hold.
-- Our team aims at revolutionizing the financial and socio-infrastructure for African communities. We are developing platforms that integrate digital process with every day applications into the web3 space. Creating sustainable way of trapping capital circulation in our communities.
+KILIMO KWANZA is an operating registered business that will build and maintain these DAOs. We will secure the liquidity and tokenization of the equity our DAOs hold. Our team aims at revolutionizing the financial and socio-infrastructure for African communities. We are developing platforms that integrate digital process with every day applications into the web3 space. Creating sustainable way of trapping capital circulation in our communities.
 
-Our aim is to create a holistic approach, accounting for interlocking causes and effects. As we deploy capital more equitably to under-represented communites, while eliminating repayment terms and collateral requirements that extract resources from our communities — revising exclusionary credit standards, involving core stakeholders in decision-making and centralized systems. 
+We want to create a holistic approach, accounting for interlocking causes and effects. As we deploy capital more equitably to under-represented communites, while eliminating repayment terms and collateral requirements that extract resources from our communities — revising exclusionary credit standards, involving core stakeholders in decision-making and centralized systems. 
 
 ### Project Details
-
-We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
-
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
-- What your project is _not_ or will _not_ provide or implement
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+KILIMO PESA wants to use a multi-agent system smart contracts. These type of smart contracts eliminate intermediaries, allowing the circular economy market to thrive. Blockchain technology has an immense potential of re-defining our way of life, its imperative we introduce it right. We have a plan in action that we believe if executed right  could ripple mass effect.
+![1](https://user-images.githubusercontent.com/113509902/193005530-c3c2721d-3fda-4b4a-8cc0-4e8ab43f2362.png)![2](https://user-images.githubusercontent.com/113509902/193005587-34884bfa-91b0-4bc9-a882-284eaa415b72.png)
+Leveraging Blockchain technology KILIMO PESA is disrupting the agriculture field by improving the supply chain and ensuring the integrity, security, and traceability of data. It has the potential to improve farmers economic situation eliminating intermediaries and improving producer and customer satisfaction. 
 
 ### Ecosystem Fit
 
-Help us locate your project in the Mintbase landscape and what problems it tries to solve by answering each of these questions:
+Our project is everything that NEAR stands for. eliminating the middleman. We want to build and grow in this space. Mint base will allow us to grow and actualize our potential. 
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+Our methodology is automated; it can be used to optimize any supply chain, resulting in increased security and efficiency. 
+We want to create a robust security characteristics to the agriculture system. I dont know anyother project similar to ours in the region. We would love to know and learn from any Re-fi agri blockchain networks on NEAR 
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Victor A. Muhagachi
+- David Machuche 
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. john@duo.com)
-- **Website:**
+- **Contact Name:** Victor A. Muhagachi
+- **Contact Email:** v.muhagachi@gmail.com
+- **Website:**kilimopesa.io
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
+- **Registered Address:** 108 Masaki Dar es salaam
 - **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
 
 ### Team's experience
