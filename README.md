@@ -30,13 +30,12 @@ We want to create a holistic approach, accounting for interlocking causes and ef
 ### Project Details
 KILIMO PESA wants to use a multi-agent system smart contracts. These type of smart contracts eliminate intermediaries, allowing the circular economy market to thrive. Blockchain technology has an immense potential of re-defining our way of life, its imperative we introduce it right. We have a plan in action that we believe if executed right  could ripple mass effect.
 ![1](https://user-images.githubusercontent.com/113509902/193005530-c3c2721d-3fda-4b4a-8cc0-4e8ab43f2362.png)![2](https://user-images.githubusercontent.com/113509902/193005587-34884bfa-91b0-4bc9-a882-284eaa415b72.png)
-Leveraging Blockchain technology KILIMO PESA is disrupting the agriculture field by improving the supply chain and ensuring the integrity, security, and traceability of data. It has the potential to improve farmers economic situation eliminating intermediaries and improving producer and customer satisfaction. 
+Leveraging Blockchain technology KILIMO PESA is disrupting the agriculture field by improving the supply chain and ensuring the integrity, security, and traceability of data. It has the potential to improve farmers economic situation eliminating intermediaries and improving producer and customer satisfaction. ![7358354 fig 007](https://user-images.githubusercontent.com/113509902/193074012-4af5e3c2-ecad-4d85-a87e-3a6ec8fe2ccb.png)
+
 
 ### Ecosystem Fit
 
-Our project is everything that NEAR stands for. eliminating the middleman. We want to build and grow in this space. Mint base will allow us to grow and actualize our potential. 
-
-Our methodology is automated; it can be used to optimize any supply chain, resulting in increased security and efficiency. 
+Our project is everything that NEAR stands for. eliminating the middleman. We want to build and grow in this space. Mint base will allow us to grow and actualize our potential. Our methodology is automated; it can be used to optimize any supply chain, resulting in increased security and efficiency. 
 We want to create a robust security characteristics to the agriculture system. I dont know anyother project similar to ours in the region. We would love to know and learn from any Re-fi agri blockchain networks on NEAR 
 
 ## Team :busts_in_silhouette:
