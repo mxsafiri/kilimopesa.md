@@ -31,11 +31,12 @@ We want to create a holistic approach, accounting for interlocking causes and ef
 KILIMO PESA wants to use a multi-agent system smart contracts. These type of smart contracts eliminate intermediaries, allowing the circular economy market to thrive. Blockchain technology has an immense potential of re-defining our way of life, its imperative we introduce it right. We have a plan in action that we believe if executed right  could ripple mass effect.
 ![1](https://user-images.githubusercontent.com/113509902/193005530-c3c2721d-3fda-4b4a-8cc0-4e8ab43f2362.png)![2](https://user-images.githubusercontent.com/113509902/193005587-34884bfa-91b0-4bc9-a882-284eaa415b72.png)
 Leveraging Blockchain technology KILIMO PESA is disrupting the agriculture field by improving the supply chain and ensuring the integrity, security, and traceability of data. It has the potential to improve farmers economic situation eliminating intermediaries and improving producer and customer satisfaction. ![7358354 fig 007](https://user-images.githubusercontent.com/113509902/193074012-4af5e3c2-ecad-4d85-a87e-3a6ec8fe2ccb.png)
-
+![3](https://user-images.githubusercontent.com/113509902/193074676-36a95e2e-0c53-47c6-9eb6-ac7f4634a9c9.png)
+![4](https://user-images.githubusercontent.com/113509902/193074689-5349df4a-ad02-4799-9170-aa1d960b91f1.png)
 
 ### Ecosystem Fit
 
-Our project is everything that NEAR stands for. eliminating the middleman. We want to build and grow in this space. Mint base will allow us to grow and actualize our potential. Our methodology is automated; it can be used to optimize any supply chain, resulting in increased security and efficiency. 
+Our project is everything that NEAR stands for. eliminating the middleman. We want to build and grow in this space. Mintbase will allow us to grow and actualize our potential. Our methodology is automated; it can be used to optimize any supply chain, resulting in increased security and efficiency. 
 We want to create a robust security characteristics to the agriculture system. I dont know anyother project similar to ours in the region. We would love to know and learn from any Re-fi agri blockchain networks on NEAR 
 
 ## Team :busts_in_silhouette:
@@ -54,39 +55,23 @@ We want to create a robust security characteristics to the agriculture system. I
 ### Legal Structure
 
 - **Registered Address:** 108 Masaki Dar es salaam
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Duo Ltd.)
+- **Registered Legal Entity:** KILIMO PESA
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
-
-If anyone on your team has applied for a grant at the Mintbase previously, please list the name of the project and legal entity here.
+Our team is growing we have the best talent wth backgrounds in Innovation management and International Business. Deep passion for impact transformation  and Web3 integration. We have agricultural experts, marketers, developers and educators. 
 
 ### Team Code Repos
 
-- https://github.com/<your_organisation>
-- https://github.com/<your_organisation>/<project_1>
-- https://github.com/<your_organisation>/<project_2>
-
-Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
-
-- https://github.com/<team_member_1>
-- https://github.com/<team_member_2>
+- https://github.com/<mxsafiri>
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/<person_1>
-- https://www.linkedin.com/<person_2>
+- https://www.linkedin.com/in/victor-muhagachi-ab4234160/
+- https://www.linkedin.com/in/david-machuche-1a9954b7/
 
 ## Development Status :open_book:
-
-If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
-
-- links to improvement proposals or [RFPs](https://github.com/mintbase/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
-- academic publications relevant to the problem,
-- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
-- references to conversations you might have had related to this project with anyone from the Mintbase Foundation,
-- previous interface iterations, such as mock-ups and wireframes.
+We are building communities at the momment we have an active group of over 100 farmers with over 150 acres of fertile land 
 
 ## Development Roadmap :nut_and_bolt:
 
