@@ -71,11 +71,11 @@ Our team is growing we have the best talent wth backgrounds in Innovation manage
 - https://www.linkedin.com/in/david-machuche-1a9954b7/
 
 ## Development Status :open_book:
-We are building communities at the momment we have an active group of over 100 farmers with over 150 acres of fertile land 
+Building communities at the momment is at the center of our development fostering the adoption of Blockchain technology and Internet of things across agriculture communities by doing research, innovation and solution deployment through project led initiatives. we have an active group of over 100 farmers with over 150 acres of fertile land 
 
 ## Development Roadmap :nut_and_bolt:
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
+The first phase of our project
 
 Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Mintbase. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
 
