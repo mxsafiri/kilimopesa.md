@@ -1,10 +1,4 @@
 
-- **Project Name:** KILIMO PESA
-- **Team Name:** Giving farmers tools and capital investments to help them create regenerating finance (Re-fi) agricultural schemes
-- **Payment Address:** ed81ebcb34f9cbe95d7c17dad2e3b843c5116d3f3aaad826d7b37c3f9d2016fe
-- **[Level](../README.md#level_slider-levels):** 1
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
 
